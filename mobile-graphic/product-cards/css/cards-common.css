@@ -24,7 +24,6 @@ p:not(:last-child) {
   box-sizing: border-box;
   border: 2px solid #ffd700;    
   font-size: 14px;
-  margin-top: 2%;
 }
 
 .product__img {
