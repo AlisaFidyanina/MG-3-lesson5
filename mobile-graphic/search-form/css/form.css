@@ -1,0 +1,7 @@
+.search__icon {
+	fill: #ffffff;
+}
+
+form input:focus {
+		fill: #6441a5;
+}
